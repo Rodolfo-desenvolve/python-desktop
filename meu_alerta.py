@@ -8,12 +8,8 @@ from time import sleep
 from threading import Thread
 from tkinter import messagebox
 
-
-#!!!! finalizado !!!!!!!!!!!!!!!
-
 # 1° passo : criar janelas
 janela = Tk()
-
 
 # 2° passo : criar classe
 class Alarme:
@@ -214,7 +210,6 @@ class Alarme:
         self.cor12 = "#f04141"  # vermelho
         self.cor13 = "#59b356"  # verde
         self.cor14 = "#cdd1cd"  # cizenta
-
 
 Alarme()
 
