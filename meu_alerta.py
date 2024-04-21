@@ -212,25 +212,3 @@ class Alarme:
         self.cor14 = "#cdd1cd"  # cizenta
 
 Alarme()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
