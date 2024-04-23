@@ -2,12 +2,15 @@ Projetos desenvolvido em fase de estudos de programação orientada a objeto (PO
 
 #### Meu_Alarme.py;
 **Função:** Alarma em horarios escolhidos. <br>
-**oObs:** Deve ser desativado quando alarmar, selecionado o **desativar**.
+**Obs:** Deve ser desativado quando alarmar, selecionado o **desativar**.
 
 #### Meuprojetoimg.py;
 
-**Função:** Calcula o imc do usuario.
-**Obs:** Escrever peso e altura de formar correta, utilizando pontos.
+**Função:** Calcula o imc do usuario. <br>
+**Obs:** Escrever peso e altura de formar correta.
+<br>
 Exemplo:
- altura = 1.80
- peso   = 70.9 
+<br>
+altura = 1.80
+<br>
+peso   = 70.9 
