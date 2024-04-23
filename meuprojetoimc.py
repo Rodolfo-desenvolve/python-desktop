@@ -4,7 +4,7 @@ from tkinter import *
 
 
 # 1° passo : criar janela
-janela = Tk()  # Projeto finalizado com sucesso!!!!!!!!!
+janela = Tk()
 
 # 2° passo : criar classe
 class Tela_Imc:
@@ -33,6 +33,7 @@ class Tela_Imc:
         self.frame_baixo = Frame(self.janela, bg='#1e3743')
         self.frame_baixo.place(x=0, y=181, width=425, height=55)
 
+    # 6° passo : funções para calcular imc
     def calcular1(self):
         peso = float(self.entry_peso.get())
         altura = float(self.entry_altura.get())
@@ -83,7 +84,7 @@ class Tela_Imc:
 
         self.lb_resultado['text'] = '{:.{}f}'.format(resultado, 2)
 
-    # 6° passo : criar widghts
+    # 7° passo : criar widghts
     def widhgts_imc(self):
         self.lb_principal = Label(self.frame_baixo, text='CALCULADORA DE IMC', bg='#1e3743', fg='white',
                                   font=('Ivy 15 bold'))
@@ -151,7 +152,6 @@ class Tela_Imc:
                                 font=('Ivy 10 bold'),command=self.calcular1)
         self.bt_calcul.place(x=5, y=150, width=200, height=25)
 
-    # 8° passo : funções para calcular imc
 Tela_Imc()
 
 # serão 3 frames para esse projeto
