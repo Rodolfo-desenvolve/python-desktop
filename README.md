@@ -4,7 +4,7 @@
 **Função:** Alarma em horarios escolhidos. <br>
 **Obs:** Deve ser desativado quando alarmar, selecionado o **desativar**.
 
-#### Meuprojetoimg.py;
+#### Meuprojetoimc.py;
 
 **Função:** Calcula o imc do usuario. <br>
 **Obs:** Escrever peso e altura de formar correta.
