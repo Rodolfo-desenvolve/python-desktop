@@ -1,4 +1,4 @@
-Projetos desenvolvido em fase de estudos de programação orientada a objeto (POO);
+## Projetos desenvolvido em fase de estudos de **Programação Orientada a Objeto (POO)**;
 
 #### Meu_Alarme.py;
 **Função:** Alarma em horarios escolhidos. <br>
