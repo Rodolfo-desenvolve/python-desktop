@@ -17,4 +17,14 @@ peso   = 70.9
 
 ## Projetos desenvolvido em fase de estudos de ** API **;
 
-#### Meuconversor.py
+#### Meuconversor.py;
+
+**Função:** Converte valores de moedas em tempo real; <br>
+**Obs:** Deve escolha a moedas para conversão e o valor da conversão.<br>
+Exemplo:
+<br>
+De = Euro
+<br>
+Para = Real
+<br>
+Valor = 1
