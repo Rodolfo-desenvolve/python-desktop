@@ -14,3 +14,7 @@ Exemplo:
 altura = 1.80
 <br>
 peso   = 70.9 
+
+## Projetos desenvolvido em fase de estudos de ** API **;
+
+#### Meuconversor.py
