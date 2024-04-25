@@ -1,3 +1,10 @@
+# Meu Histórico na programação:
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Projetos desenvolvido em fase de estudos de **Programação Orientada a Objeto (POO)**;
 
 #### Arquivo: Meu_Alarme.py;
