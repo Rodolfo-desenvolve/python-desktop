@@ -23,6 +23,11 @@ altura = 1.80
 peso   = 70.9 
 
 ## Projetos desenvolvido em fase de estudos de Banco de dados (SQL);
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Projetos desenvolvido em fase de estudos de (API);
 
