@@ -47,6 +47,7 @@ Valor = 1
 ## Projetos desenvolvido em fase de estudos em Django;
 
 **Por ser  um projeto criado em um framework o Github não possui suporte atualmente para o deploy.**
+**Os projetos estão em** <a href='https://github.com/Rodolfo-desenvolve/Portfolio'>Portfolio</a>
 
 ## Canais acompanhados;
 
