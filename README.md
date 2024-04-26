@@ -42,3 +42,14 @@ De = Euro
 Para = Real
 <br>
 Valor = 1
+
+## Canais acompanhados;
+
+ Conteudo: **Python** = Canal: **Curso em Video*.<br>
+ Conteudo: **Django** = Canal: **Pythonando*.<br>
+ Conteudo: **Banco** de dados = Canal: **Otavio Miranda*.<br>
+ Conteudo: **API** = Canal: **Hashtag Programação*.<br>
+ Conteudo: **POO** = Canal: **Pythonando*.<br>
+ Conteudo: **Apoio e Dicas** =  Canal: **Thiago Brito*.<br>
+ Conteudo: **Html, Css, Javascripts** = Canal: **Myacon Silveira*.<br>
+ conteudo: **Projetos Python Faceis** = Canal = **Usando Python*.
