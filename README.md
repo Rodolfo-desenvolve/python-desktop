@@ -40,6 +40,14 @@ Para = Real
 <br>
 Valor = 1
 
+## Projetos desenvolvido em fase de estudos em Desenvolvimento Web;
+
+**O projeto está em Loja Virtual**
+
+## Projetos desenvolvido em fase de estudos em Django;
+
+**Por ser  um projeto criado em um framework o Github não possui suporte atualmente para o deploy.**
+
 ## Canais acompanhados;
 
  Conteudo: **Python** = Canal: **Curso em Video*.<br>
