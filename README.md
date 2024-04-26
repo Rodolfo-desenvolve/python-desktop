@@ -1,9 +1,6 @@
 # Meu Histórico na programação:
-<br>
-<br>
-<br>
-<br>
-<br>
+
+#### Experiencia de 1 ano estudando Programação.
 
 ## Projetos desenvolvido em fase de estudos de **Programação Orientada a Objeto (POO)**;
 
