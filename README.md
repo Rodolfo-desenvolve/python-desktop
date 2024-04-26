@@ -20,11 +20,11 @@ altura = 1.80
 peso   = 70.9 
 
 ## Projetos desenvolvido em fase de estudos de Banco de dados (SQL);
-<br>
-<br>
-<br>
-<br>
-<br>
+
+#### Arquivo: sqlite3_estudos.py;
+
+**Função:** Criar e manipular um bando de dados. <br>
+**Obs:** Sempre verifique cada detalhe do código e utilize o terminal para acompanhar a codificação.
 
 ## Projetos desenvolvido em fase de estudos de (API);
 
