@@ -42,7 +42,7 @@ Valor = 1
 
 ## Projetos desenvolvido em fase de estudos em Desenvolvimento Web;
 
-**O projeto está em Loja Virtual**
+**O projeto está em** <a href='https://github.com/Rodolfo-desenvolve/Loja_virtual'>Loja Virtual</a>
 
 ## Projetos desenvolvido em fase de estudos em Django;
 
