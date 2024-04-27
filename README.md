@@ -42,15 +42,15 @@ peso   = 70.9
 **Obs:** Deve escolher a moeda para conversão, moeda conversor e o valor da conversão.<br>
 Exemplo:
 <br>
-De = Euro
+De = USD: Dolar.
 <br>
-Para = Real
+Para = BRL: Real.
 <br>
 Valor = 1
 
 **Interface**
 <br>
-<img src=''>
+<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/81e9a2d2-54c8-45c7-a48c-86bb9aa26076' height='200px'>
 
 ## Projetos desenvolvidos em fase de estudos em Desenvolvimento Web;
 
