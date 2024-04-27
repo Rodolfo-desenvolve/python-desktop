@@ -12,6 +12,10 @@
 **Função:** Alarma em horarios escolhidos. <br>
 **Obs:** Deve ser desativado quando alarmar, selecionando **desativar**.
 
+**Interface:**
+<br>
+<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/80961a00-36fb-4e40-9b61-e14b7d033fd0' width='300px'>
+
 #### Arquivo: Meuprojetoimc.py;
 
 **Função:** Calcula o imc do usuario. <br>
