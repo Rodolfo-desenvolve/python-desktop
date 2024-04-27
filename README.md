@@ -1,6 +1,10 @@
 # Meu Histórico na programação:
 
+<br>
+
 #### Experiencia de 1 ano estudando Programação.
+
+<br>
 
 ## Projetos desenvolvido em fase de estudos de **Programação Orientada a Objeto (POO)**;
 
@@ -42,12 +46,20 @@ Valor = 1
 
 ## Projetos desenvolvido em fase de estudos em Desenvolvimento Web;
 
-**O projeto está em** <a href='https://github.com/Rodolfo-desenvolve/Loja_virtual'>Loja Virtual</a>
+<br>
+
+**O projeto está em** <a href='https://github.com/Rodolfo-desenvolve/Loja_virtual'>Loja Virtual</a>.
+
+<br>
 
 ## Projetos desenvolvido em fase de estudos em Django;
 
+<br>
+
 **Por ser  um projeto criado em um framework o Github não possui suporte atualmente para o deploy.**
-**Os projetos estão em** <a href='https://github.com/Rodolfo-desenvolve/Portfolio'>Portfolio</a>
+**Os projetos estão em** <a href='https://github.com/Rodolfo-desenvolve/Portfolio'>Portfólio</a>
+
+<br>
 
 ## Canais acompanhados;
 
