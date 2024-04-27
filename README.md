@@ -27,10 +27,6 @@ altura = 1.80
 <br>
 peso   = 70.9 
 
-**Interface**
-<br>
-<img src=''>
-
 ## Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);
 
 #### Arquivo: sqlite3_estudos.py;
@@ -51,6 +47,10 @@ De = Euro
 Para = Real
 <br>
 Valor = 1
+
+**Interface**
+<br>
+<img src=''>
 
 ## Projetos desenvolvidos em fase de estudos em Desenvolvimento Web;
 
