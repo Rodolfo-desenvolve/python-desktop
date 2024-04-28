@@ -1,12 +1,13 @@
-# Meu Histórico na programação:
+
+<h1> Meu Histórico na programação:</h1>
 
 <br>
 
-#### Experiencia de 1 ano estudando Programação.
+<h4> Experiencia de 1 ano estudando Programação.</h4>
 
 <br>
 
-## Projetos desenvolvidos em fase de estudos de **Programação Orientada a Objeto (POO)**;
+<h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
 #### Arquivo: Meu_Alarme.py;
 **Função:** Alarma em horarios escolhidos. <br>
@@ -29,16 +30,16 @@ peso   = 70.9
 
 **Interface:**
 <br>
-<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/80961a00-36fb-4e40-9b61-e14b7d033fd0' width='300px'>
+<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/0a38b738-aaee-423c-aa53-a3a60dab04da' width='300px'>
 
-## Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);
+<h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
 
 #### Arquivo: sqlite3_estudos.py;
 
 **Função:** Criar e manipular um bando de dados. <br>
 **Obs:** Sempre verifique cada detalhe do código e utilize o terminal para acompanhar a codificação.
 
-## Projetos desenvolvidos em fase de estudos de (APIs);
+<h2> Projetos desenvolvidos em fase de estudos de (APIs);</h2>
 
 #### Arquivo: Meuconversor.py;
 
@@ -52,11 +53,11 @@ Para = BRL: Real.
 <br>
 Valor = 1
 
-**Interface**
+**Interface:**
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/81e9a2d2-54c8-45c7-a48c-86bb9aa26076' height='200px'>
 
-## Projetos desenvolvidos em fase de estudos em Desenvolvimento Web;
+<h2> Projetos desenvolvidos em fase de estudos em Desenvolvimento Web; </h2>
 
 <br>
 
@@ -64,7 +65,7 @@ Valor = 1
 
 <br>
 
-## Projetos desenvolvidos em fase de estudos em Django;
+<h2> Projetos desenvolvidos em fase de estudos em Django;</h2>
 
 <br>
 
@@ -73,7 +74,7 @@ Valor = 1
 
 <br>
 
-## Canais acompanhados;
+<h2> Canais acompanhados; </h2>
 
  Conteúdo: **Python** = Canal: *Curso em Video*.<br>
  Conteúdo: **Django** = Canal: *Pythonando*.<br>
@@ -83,3 +84,4 @@ Valor = 1
  Conteúdo: **Apoio e Dicas** =  Canal: *Thiago Brito*.<br>
  Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br>
  conteúdo: **Projetos Python Faceis** = Canal = *Usando Python*.
+
