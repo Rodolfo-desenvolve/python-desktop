@@ -27,6 +27,10 @@ altura = 1.80
 <br>
 peso   = 70.9 
 
+**Interface:**
+<br>
+<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/80961a00-36fb-4e40-9b61-e14b7d033fd0' width='300px'>
+
 ## Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);
 
 #### Arquivo: sqlite3_estudos.py;
