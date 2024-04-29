@@ -66,6 +66,15 @@ Valor = 1
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/81e9a2d2-54c8-45c7-a48c-86bb9aa26076' height='200px'>
 
+#### Arquivo: Meu_Bitcoin.py;
+
+**Função:** Ver o preço de 1 bitcoin em tempo real; <br>
+**Obs:** Os valores atualizam.<br>
+
+**Interface:**
+<br>
+<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/81e9a2d2-54c8-45c7-a48c-86bb9aa26076' height='200px'>
+
 <h2> Projetos desenvolvidos em fase de estudos em Desenvolvimento Web; </h2>
 
 <br>
