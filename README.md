@@ -32,6 +32,14 @@ peso   = 70.9
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/0a38b738-aaee-423c-aa53-a3a60dab04da' width='300px'>
 
+<h4> Arquivo: Meu_Projeto.py;</h4>
+
+**Função:** Criar lembretes e tarefas.
+
+**Interface:**
+<br>
+<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/81e9a2d2-54c8-45c7-a48c-86bb9aa26076' height='200px'>
+
 <h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
 
 #### Arquivo: sqlite3_estudos.py;
@@ -52,14 +60,6 @@ De = USD: Dolar.
 Para = BRL: Real.
 <br>
 Valor = 1
-
-**Interface:**
-<br>
-<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/81e9a2d2-54c8-45c7-a48c-86bb9aa26076' height='200px'>
-
-#### Arquivo: Meu_Projeto.py;
-
-**Função:** Criar lembretes e tarefas.
 
 **Interface:**
 <br>
