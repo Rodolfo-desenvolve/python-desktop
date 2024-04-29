@@ -38,7 +38,8 @@ peso   = 70.9
 
 **Interface:**
 <br>
-<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/81e9a2d2-54c8-45c7-a48c-86bb9aa26076' height='200px'>
+<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/c1f57bb6-0827-4c6a-b46b-30c76ee1a97e' width='300px'>
+
 
 <h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
 
