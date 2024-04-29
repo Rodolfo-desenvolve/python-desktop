@@ -73,7 +73,7 @@ Valor = 1
 
 **Interface:**
 <br>
-<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/81e9a2d2-54c8-45c7-a48c-86bb9aa26076' height='200px'>
+<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/25f24b6b-16cf-4580-9584-668ef0490752' height='200px'>
 
 <h2> Projetos desenvolvidos em fase de estudos em Desenvolvimento Web; </h2>
 
