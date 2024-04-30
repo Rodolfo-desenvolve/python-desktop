@@ -32,7 +32,7 @@ peso   = 70.9
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/0a38b738-aaee-423c-aa53-a3a60dab04da' width='300px'>
 
-#### Arquivo: Meu_Projeto.py;####
+#### Arquivo: Meu_Projeto.py;
 
 **Função:** Criar lembretes e tarefas.
 
