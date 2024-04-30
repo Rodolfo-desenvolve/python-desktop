@@ -32,13 +32,20 @@ peso   = 70.9
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/0a38b738-aaee-423c-aa53-a3a60dab04da' width='300px'>
 
-<h4> Arquivo: Meu_Projeto.py;</h4>
+#### Arquivo: Meu_Projeto.py;####
 
 **Função:** Criar lembretes e tarefas.
 
 **Interface:**
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/c1f57bb6-0827-4c6a-b46b-30c76ee1a97e' width='300px'>
+
+#### Arquivo: Calculadora.py;
+**Função:** Faz calculos com os operadores básicos. <br>
+
+**Interface:**
+<br>
+<img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/80961a00-36fb-4e40-9b61-e14b7d033fd0' width='300px'>
 
 
 <h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
