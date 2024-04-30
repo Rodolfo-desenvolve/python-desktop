@@ -47,6 +47,13 @@ peso   = 70.9
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/d3210cca-8ef2-4f0a-851c-1f07926b15b3' height='250px'>
 
+#### Arquivo: Meuprojetoidade.py;
+**Função:** Calcula a quantidade de anos meses e dias entre as datas passadas. <br>
+
+**Interface:**
+<br>
+<img src='' height='250px'>
+
 
 <h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
 
