@@ -7,6 +7,10 @@
 
 <br>
 
+**OBS:** Cada arquivo é um projeto diferente.
+
+<br>
+
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
 #### Arquivo: Meu_Alarme.py;
