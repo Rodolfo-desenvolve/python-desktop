@@ -113,7 +113,8 @@ Valor = 1
 
 <br>
 
-**O projeto está em** <a href='https://github.com/Rodolfo-desenvolve/Loja_virtual'>Loja Virtual</a>.
+**Os códigos do projeto está em** <a href='https://github.com/Rodolfo-desenvolve/Loja_virtual'>Loja Virtual Código</a>.
+**Ver site:**<a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual Site</a>.
 
 <br>
 
