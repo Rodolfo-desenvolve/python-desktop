@@ -128,14 +128,14 @@ Valor = 1
 
 <h2> Canais acompanhados; </h2>
 
- Conteúdo: **Python** = Canal: *Curso em Video*.<br>
- Conteúdo: **Django** = Canal: *Pythonando*.<br>
- Conteuúdo: **Banco de dados** = Canal: *Otavio Miranda*.<br>
- Conteúdo: **API** = Canal: *Hashtag Programação*.<br>
- Conteúdo: **POO** = Canal: *Pythonando*.<br>
- Conteúdo: **Apoio e Dicas** =  Canal: *Thiago Brito*.<br>
- Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br>
- conteúdo: **Projetos Python Faceis** = Canal = *Usando Python*.
+ - Conteúdo: **Python** = Canal: *Curso em Video*.<br>
+ - Conteúdo: **Django** = Canal: *Pythonando*.<br>
+ - Conteuúdo: **Banco de dados** = Canal: *Otavio Miranda*.<br>
+ - Conteúdo: **API** = Canal: *Hashtag Programação*.<br>
+ - Conteúdo: **POO** = Canal: *Pythonando*.<br>
+ - Conteúdo: **Apoio e Dicas** =  Canal: *Thiago Brito*.<br>
+ - Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br>
+ - conteúdo: **Projetos Python Faceis** = Canal = *Usando Python*.
 
  <h2> Observações; </h2>
 
