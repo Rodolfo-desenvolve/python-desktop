@@ -58,6 +58,13 @@ peso   = 70.9
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/630863ce-d278-43ba-a0e8-944b562aa62b' height='250px'>
 
+#### Arquivo: Crudpatrimonio.py;
+**Função:** Calcula o patrimônio líquido. <br>
+
+**Interface:**
+<br>
+<img src='' height='250px'>
+
 
 <h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
 
