@@ -74,7 +74,7 @@ peso   = 70.9
 
 <hr>
 
-#### Arquivo: Meu_jokenpo.py;
+#### Arquivo: Meu_jokenpo2.py;
 
 **Função:** Jogar pedra, papel e tesoura; <br>
 **Obs:** sempre que perder,empatar ou ganhar a interface informa .<br>
@@ -82,6 +82,17 @@ peso   = 70.9
 **Interface:**
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/18fe9dfb-06a5-4cb2-a7e8-4bdc203b0ea8' height='200px'>
+
+<hr>
+
+#### Arquivo: Tela_bloqueio.py;
+
+**Função:** Reconhecer o usuario; <br>
+**Obs:** Apenas um usuario pode ser utilizado.<br>
+
+**Interface:**
+<br>
+<img src='' height='200px'>
 
 <h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
 
