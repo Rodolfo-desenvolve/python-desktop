@@ -73,6 +73,17 @@ peso   = 70.9
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/72f4a8de-a2af-486f-bbc5-4f7de7b41020' height='200px'>
 
+<hr>
+
+#### Arquivo: Meu_jokenpo.py;
+
+**Função:** Jogar pedra, papel e tesoura; <br>
+**Obs:** sempre que perder,empatar ou ganhar a interface informa .<br>
+
+**Interface:**
+<br>
+<img src='' height='200px'>
+
 <h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
 
 #### Arquivo: sqlite3_estudos.py;
