@@ -139,14 +139,16 @@ Valor = 1
 
 <h2> Canais acompanhados; </h2>
 
+**Melhor ordem para assitir:**
+
+ - Conteúdo: **Apoio e Dicas** =  Canal: *Thiago Brito*.<br>
  - Conteúdo: **Python** = Canal: *Curso em Video*.<br>
- - Conteúdo: **Django** = Canal: *Pythonando*.<br>
+ - Conteúdo: **POO** = Canal: *Pythonando*.<br>
+ - conteúdo: **Projetos Python Faceis** = Canal = *Usando Python*.
  - Conteuúdo: **Banco de dados** = Canal: *Otavio Miranda*.<br>
  - Conteúdo: **API** = Canal: *Hashtag Programação*.<br>
- - Conteúdo: **POO** = Canal: *Pythonando*.<br>
- - Conteúdo: **Apoio e Dicas** =  Canal: *Thiago Brito*.<br>
+ - Conteúdo: **Django** = Canal: *Pythonando*.<br>
  - Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br>
- - conteúdo: **Projetos Python Faceis** = Canal = *Usando Python*.
 
  <h2> Observações; </h2>
 
