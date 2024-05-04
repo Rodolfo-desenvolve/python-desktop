@@ -144,7 +144,7 @@ Valor = 1
 <br>
 
 **Por ser  um projeto criado em um framework o Github não possui suporte atualmente para o deploy.**
-**Os projetos estão em** <a href='https://github.com/Rodolfo-desenvolve/Portfolio'>Portfólio</a>
+**Os projetos estão em** <a href='https://github.com/Rodolfo-desenvolve/Portfolio'>Portfólio</a>.
 
 <br>
 
@@ -152,7 +152,7 @@ Valor = 1
 
 **Melhor ordem para assitir:**
 
- - Conteúdo: **Apoio e Dicas** =  Canal: *Thiago Brito*.<br>
+ - Conteúdo: **Apoio e Dicas** =  Canal:*Thiago Brito*.<br>
  - Conteúdo: **Python** = Canal: *Curso em Video*.<br>
  - Conteúdo: **POO** = Canal: *Pythonando*.<br>
  - conteúdo: **Projetos Python Faceis** = Canal = *Usando Python*.
