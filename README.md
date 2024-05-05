@@ -7,7 +7,7 @@
 <br>
 
 <br>
-
+<hr>
 <h1> Projetos</h1>
 <br>
 
@@ -150,6 +150,7 @@ Valor = 1
 **Os projetos estão em** <a href='https://github.com/Rodolfo-desenvolve/Portfolio'>Portfólio</a>.
 
 <br>
+<hr>
 <h1> Conteudos e Observações</h1>
 <br>
 
