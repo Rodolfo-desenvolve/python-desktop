@@ -8,6 +8,9 @@
 
 <br>
 
+<h1> Projetos</h1>
+<br>
+
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
 #### Arquivo: Meu_Alarme.py;
@@ -146,6 +149,8 @@ Valor = 1
 **Por ser  um projeto criado em um framework o Github não possui suporte atualmente para o deploy.**
 **Os projetos estão em** <a href='https://github.com/Rodolfo-desenvolve/Portfolio'>Portfólio</a>.
 
+<br>
+<h1> Conteudos e Observações</h1>
 <br>
 
 <h2> Canais acompanhados; </h2>
