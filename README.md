@@ -12,7 +12,7 @@
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
 #### Arquivo: Meu_Alarme.py;
-**Função:** Alarma em horarios escolhidos. <br>
+**Função:** Alarma em horarios definido previamente. <br>
 **Obs:** Deve ser desativado quando alarmar, selecionando **desativar**.
 
 **Interface:**
