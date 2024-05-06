@@ -40,7 +40,8 @@ peso   = 70.9
 
 #### Arquivo: Meu_Projeto.py;
 
-**Função:** Criar lembretes e tarefas.
+**Função:** Criar lembretes e tarefas.<br>
+**Obs:** integrando o projeto **meu_alarme.py** ao **meu_projeto.py** o projeto ganha mais funções.
 
 **Interface:**
 <br>
