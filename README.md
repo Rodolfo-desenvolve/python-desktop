@@ -12,7 +12,7 @@
 
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
-#### Arquivo: Meu_Alarme.py;
+<h4> Arquivo: Meu_Alarme.py; </h4>
 **Função:** Alarma em horarios definido previamente. <br>
 **Obs:** Deve ser desativado quando alarmar, selecionando **desativar**.
 
@@ -22,7 +22,7 @@
 
 <hr>
 
-#### Arquivo: Meuprojetoimc.py;
+<h4> Arquivo: Meuprojetoimc.py;</h4>
 
 **Função:** Calcula o imc do usuario. <br>
 **Obs:** Escrever peso e altura de formar correta.
@@ -39,7 +39,7 @@ peso   = 70.9
 
 <hr>
 
-#### Arquivo: Meu_Projeto.py;
+<h4> Arquivo: Meu_Projeto.py;</h4>
 
 **Função:** Criar lembretes e tarefas.<br>
 **Obs:** integrando o projeto **meu_alarme.py** ao **meu_projeto.py** o projeto ganha mais funções.
@@ -50,7 +50,7 @@ peso   = 70.9
 
 <hr>
 
-#### Arquivo: Calculadora.py;
+<h4> Arquivo: Calculadora.py;</h4>
 **Função:** Faz calculos com os operadores básicos. <br>
 
 **Interface:**
@@ -59,7 +59,7 @@ peso   = 70.9
 
 <hr>
 
-#### Arquivo: Meuprojetoidade.py;
+<h4> Arquivo: Meuprojetoidade.py;</h4>
 **Função:** Calcula a quantidade de anos meses e dias entre as datas passadas. <br>
 
 **Interface:**
@@ -68,7 +68,7 @@ peso   = 70.9
 
 <hr>
 
-#### Arquivo: Crudpatrimonio.py;
+<h4> Arquivo: Crudpatrimonio.py;</h4>
 **Função:** Calcula o patrimônio líquido. <br>
 
 **Interface:**
@@ -77,7 +77,7 @@ peso   = 70.9
 
 <hr>
 
-#### Arquivo: Meu_jokenpo2.py;
+<h4> Arquivo: Meu_jokenpo2.py;</h4>
 
 **Função:** Jogar pedra, papel e tesoura; <br>
 **Obs:** sempre que perder,empatar ou ganhar a interface informa .<br>
@@ -88,7 +88,7 @@ peso   = 70.9
 
 <hr>
 
-#### Arquivo: Tela_bloqueio.py;
+<h4> Arquivo: Tela_bloqueio.py;</h4>
 
 **Função:** Reconhecer o usuario; <br>
 **Obs:** Apenas um usuario pode ser utilizado.<br>
@@ -99,14 +99,14 @@ peso   = 70.9
 
 <h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
 
-#### Arquivo: sqlite3_estudos.py;
+<h4> Arquivo: sqlite3_estudos.py;</h4>
 
 **Função:** Criar e manipular um bando de dados. <br>
 **Obs:** Sempre verifique cada detalhe do código e utilize o terminal para acompanhar a codificação.
 
 <h2> Projetos desenvolvidos em fase de estudos de (APIs);</h2>
 
-#### Arquivo: Meuconversor.py;
+<h4> Arquivo: Meuconversor.py;</h4>
 
 **Função:** Converte valores de moedas em tempo real; <br>
 **Obs:** Deve escolher a moeda para conversão, moeda conversor e o valor da conversão.<br>
@@ -124,7 +124,7 @@ Valor = 1
 
 <hr>
 
-#### Arquivo: Meu_Bitcoin.py;
+<h4> Arquivo: Meu_Bitcoin.py;</h4>
 
 **Função:** Ver o preço de 1 bitcoin em tempo real; <br>
 **Obs:** Os valores atualizam.<br>
