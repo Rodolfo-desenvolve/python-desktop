@@ -13,6 +13,7 @@
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
 <h4> Arquivo: Meu_Alarme.py; </h4>
+
 **Função:** Alarma em horarios definido previamente. <br>
 **Obs:** Deve ser desativado quando alarmar, selecionando **desativar**.
 
@@ -51,6 +52,7 @@ peso   = 70.9
 <hr>
 
 <h4> Arquivo: Calculadora.py;</h4>
+
 **Função:** Faz calculos com os operadores básicos. <br>
 
 **Interface:**
@@ -60,6 +62,7 @@ peso   = 70.9
 <hr>
 
 <h4> Arquivo: Meuprojetoidade.py;</h4>
+
 **Função:** Calcula a quantidade de anos meses e dias entre as datas passadas. <br>
 
 **Interface:**
@@ -69,6 +72,7 @@ peso   = 70.9
 <hr>
 
 <h4> Arquivo: Crudpatrimonio.py;</h4>
+
 **Função:** Calcula o patrimônio líquido. <br>
 
 **Interface:**
