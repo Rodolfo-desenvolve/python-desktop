@@ -157,10 +157,10 @@ Valor = 1
 
 **Melhor ordem para assitir:**
 
- - Conteúdo: **Apoio e Dicas** =  Canal:*Thiago Brito*.<br>
+ - Conteúdo: **Apoio e Dicas** =  Canal: *Thiago Brito*.<br>
  - Conteúdo: **Python** = Canal: *Curso em Video*.<br>
  - Conteúdo: **POO** = Canal: *Pythonando*.<br>
- - conteúdo: **Projetos Python Faceis** = Canal = *Usando Python*.
+ - conteúdo: **Projetos Python Faceis** = Canal: *Usando Python*.
  - Conteuúdo: **Banco de dados** = Canal: *Otavio Miranda*.<br>
  - Conteúdo: **API** = Canal: *Hashtag Programação*.<br>
  - Conteúdo: **Django** = Canal: *Pythonando*.<br>
