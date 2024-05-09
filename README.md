@@ -155,7 +155,7 @@ Valor = 1
 
 <br>
 <h1> Conteudos e Observações</h1>
-
+<br>
 <h2> Canais acompanhados; </h2>
 
 **Melhor ordem para assitir:**
