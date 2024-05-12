@@ -3,7 +3,7 @@
 <br>
 
 
-<h4> Expêriencia de 1 ano estudando Programação.</h4>
+<h4> Expêriencia de 1 ano estudandos.</h4>
 
 <br>
 
