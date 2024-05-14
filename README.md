@@ -2,12 +2,10 @@
 
 <br>
 
-
 <h4> Expêriencia de 1 ano estudandos.</h4>
 <h4> Indicação: Fazer melhoria ou uma nova versão.</h4>
 
 <br>
-
 
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
