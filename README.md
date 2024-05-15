@@ -15,6 +15,7 @@
 **Obs:** Deve ser desativado quando alarmar, selecionando **desativar**.
 
 **Interface:**
+
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/80961a00-36fb-4e40-9b61-e14b7d033fd0' width='300px'>
 
@@ -24,6 +25,7 @@
 
 **Função:** Calcula o imc do usuario e retorna a sua situação: abaixo, normal ou acima do peso. <br>
 **Obs:** Escrever peso e altura de formar correta.
+
 <br>
 Exemplo:
 <br>
@@ -32,6 +34,7 @@ altura = 1.80
 peso   = 70.9 
 
 **Interface:**
+
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/0a38b738-aaee-423c-aa53-a3a60dab04da' width='300px'>
 
@@ -43,6 +46,7 @@ peso   = 70.9
 **Obs:** integrando o projeto **meu_alarme.py** ao **meu_projeto.py** o projeto ganha mais funções.
 
 **Interface:**
+
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/c1f57bb6-0827-4c6a-b46b-30c76ee1a97e' width='300px'>
 
@@ -53,6 +57,7 @@ peso   = 70.9
 **Função:** Faz calculos com os operadores básicos. <br>
 
 **Interface:**
+
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/d3210cca-8ef2-4f0a-851c-1f07926b15b3' height='250px'>
 
@@ -63,6 +68,7 @@ peso   = 70.9
 **Função:** Calcula a quantidade de anos meses e dias entre as datas passadas. <br>
 
 **Interface:**
+
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/630863ce-d278-43ba-a0e8-944b562aa62b' height='250px'>
 
