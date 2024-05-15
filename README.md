@@ -79,6 +79,7 @@ peso   = 70.9
 **Função:** Calcula o patrimônio líquido. <br>
 
 **Interface:**
+
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/72f4a8de-a2af-486f-bbc5-4f7de7b41020' height='200px'>
 
@@ -90,6 +91,7 @@ peso   = 70.9
 **Obs:** sempre que perder,empatar ou ganhar a interface informa .<br>
 
 **Interface:**
+
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/18fe9dfb-06a5-4cb2-a7e8-4bdc203b0ea8' height='200px'>
 
@@ -101,6 +103,7 @@ peso   = 70.9
 **Obs:** Apenas um usuario pode ser utilizado.<br>
 
 **Interface:**
+
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/45c5cf86-d638-4afc-b0a4-97de1eecbf17' height='200px'>
 
@@ -126,6 +129,7 @@ Para = BRL: Real.
 Valor = 1
 
 **Interface:**
+
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/81e9a2d2-54c8-45c7-a48c-86bb9aa26076' height='200px'>
 
@@ -137,6 +141,7 @@ Valor = 1
 **Obs:** Os valores atualizam.<br>
 
 **Interface:**
+
 <br>
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/25f24b6b-16cf-4580-9584-668ef0490752' height='200px'>
 
