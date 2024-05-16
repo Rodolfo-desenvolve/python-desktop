@@ -2,7 +2,7 @@
 
 <br>
 
-<h4> Expêriencia de 1 ano estudandos.</h4>
+<h4> 1 ano de estudandos.</h4>
 <h4> Indicação: Fazer melhoria, uma nova versão.</h4>
 
 <br>
