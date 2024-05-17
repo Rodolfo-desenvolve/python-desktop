@@ -15,6 +15,7 @@
 **Interface:**
 
 <br>
+
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/80961a00-36fb-4e40-9b61-e14b7d033fd0' width='300px'>
 
 <hr>
@@ -34,6 +35,7 @@ peso   = 70.9
 **Interface:**
 
 <br>
+
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/0a38b738-aaee-423c-aa53-a3a60dab04da' width='300px'>
 
 <hr>
@@ -46,6 +48,7 @@ peso   = 70.9
 **Interface:**
 
 <br>
+
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/c1f57bb6-0827-4c6a-b46b-30c76ee1a97e' width='300px'>
 
 <hr>
@@ -57,6 +60,7 @@ peso   = 70.9
 **Interface:**
 
 <br>
+
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/d3210cca-8ef2-4f0a-851c-1f07926b15b3' height='250px'>
 
 <hr>
@@ -68,6 +72,7 @@ peso   = 70.9
 **Interface:**
 
 <br>
+
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/630863ce-d278-43ba-a0e8-944b562aa62b' height='250px'>
 
 <hr>
@@ -79,6 +84,7 @@ peso   = 70.9
 **Interface:**
 
 <br>
+
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/72f4a8de-a2af-486f-bbc5-4f7de7b41020' height='200px'>
 
 <hr>
@@ -91,6 +97,7 @@ peso   = 70.9
 **Interface:**
 
 <br>
+
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/18fe9dfb-06a5-4cb2-a7e8-4bdc203b0ea8' height='200px'>
 
 <hr>
@@ -103,6 +110,7 @@ peso   = 70.9
 **Interface:**
 
 <br>
+
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/45c5cf86-d638-4afc-b0a4-97de1eecbf17' height='200px'>
 
 <h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
@@ -129,6 +137,7 @@ Valor = 1
 **Interface:**
 
 <br>
+
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/81e9a2d2-54c8-45c7-a48c-86bb9aa26076' height='200px'>
 
 <hr>
@@ -141,6 +150,7 @@ Valor = 1
 **Interface:**
 
 <br>
+
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/25f24b6b-16cf-4580-9584-668ef0490752' height='200px'>
 
 <h2> Projetos desenvolvidos em fase de estudos em Desenvolvimento Web; </h2>
@@ -160,6 +170,7 @@ Valor = 1
 **Os projetos estão em** <a href='https://github.com/Rodolfo-desenvolve/Portfolio'>Portfólio</a>.
 
 <br>
+
 <h2> Canais acompanhados; </h2>
 
 **Melhor ordem para assitir:**
