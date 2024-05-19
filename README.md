@@ -2,7 +2,7 @@
 
 <br>
 
-<h4> 1 ano de estudandos.</h4>
+<h4> 1 ano de estudas.</h4>
 <h4> Indicação: Fazer melhoria, uma nova versão.</h4>
 
 <br>
