@@ -1,7 +1,5 @@
 <h1> Meu Histórico na programação:</h1>
 
-<br>
-
 <h4> 1 ano de estudo.</h4>
 <h4> Indicação: Fazer melhoria, uma nova versão.</h4>
 
