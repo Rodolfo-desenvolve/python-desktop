@@ -174,6 +174,8 @@ Valor = 1
 
 <br>
 
+<hr>
+
 <h2> Canais acompanhados; </h2>
 
 **Melhor ordem para assitir:**
@@ -193,5 +195,6 @@ Valor = 1
  - Baixar as bibliotecas na sua maquina.
  - Verificar o funcionamento dos códigos na sua maquina.
  - Os canais apresentados, possuem outros tipos de conteúdos ligados a programação.
- 
+
+ <hr>
 
