@@ -1,9 +1,7 @@
 <h1> Meu Histórico na programação:</h1>
 
 <h4> 1 ano de estudo.</h4>
-<h4> Indicação: Fazer melhoria, uma nova versão.</h4>
-
-<br>
+<h4> Indicação: Fazer melhoria, uma nova versão.</h4><br>
 
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
@@ -12,9 +10,7 @@
 **Função:** Alarma em horarios definido previamente. <br>
 **Obs:** Deve ser desativado quando alarmar, selecionando **desativar**.
 
-**Interface:**
-
-<br>
+**Interface:**<br>
 
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/80961a00-36fb-4e40-9b61-e14b7d033fd0' width='300px'>
 
@@ -23,18 +19,15 @@
 <h4> Arquivo: Meuprojetoimc.py;</h4>
 
 **Função:** Calcula o imc do usuario e retorna a sua situação: abaixo, normal ou acima do peso. <br>
-**Obs:** Escrever peso e altura de formar correta.
+**Obs:** Escrever peso e altura de formar correta.<br>
 
-<br>
-Exemplo:
-<br>
-altura = 1.80
-<br>
+Exemplo:<br>
+
+altura = 1.80<br>
+
 peso   = 70.9 
 
-**Interface:**
-
-<br>
+**Interface:**<br>
 
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/0a38b738-aaee-423c-aa53-a3a60dab04da' width='300px'>
 
