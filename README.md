@@ -3,8 +3,6 @@
 <h4> 1 ano de estudo.</h4>
 <h4> Indicação: Fazer melhoria, uma nova versão.</h4>
 
-<br>
-
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
 <h4> Arquivo: Meu_Alarme.py; </h4>
