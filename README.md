@@ -1,13 +1,15 @@
 <h1> Meu Histórico na programação:</h1>
 
 <h4> 1 ano de estudo.</h4>
+
 <h4> Indicação: Fazer melhoria, uma nova versão.</h4>
 
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
 <h4> Arquivo: Meu_Alarme.py; </h4>
 
-**Função:** Alarma em horarios definido previamente. <br>
+**Função:** Alarma em horarios definido previamente.<br>
+
 **Obs:** Deve ser desativado quando alarmar, selecionando **desativar**.
 
 **Interface:** <br>
@@ -18,7 +20,8 @@
 
 <h4> Arquivo: Meuprojetoimc.py;</h4>
 
-**Função:** Calcula o imc do usuario e retorna a sua situação: abaixo, normal ou acima do peso. <br>
+**Função:** Calcula o imc do usuario e retorna a sua situação: abaixo, normal ou acima do peso.<br>
+
 **Obs:** Escrever peso e altura de formar correta.<br>
 
 Exemplo:<br>
@@ -27,7 +30,7 @@ altura = 1.80<br>
 
 peso   = 70.9 
 
-**Interface:**<br>
+**Interface:** <br>
 
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/0a38b738-aaee-423c-aa53-a3a60dab04da' width='300px'>
 
@@ -130,7 +133,7 @@ Valor = 1
 <h2> Projetos desenvolvidos em fase de estudos em Desenvolvimento Web; </h2> <br>
 
 **Os códigos do projeto está em** <a href='https://github.com/Rodolfo-desenvolve/Loja_virtual'>Loja Virtual Código</a>.
-**Ver site:**<a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual Site</a>. <br>
+**Ver site:** <a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual Site</a>. <br>
 
 <h2> Projetos desenvolvidos em fase de estudos em Django;</h2> <br>
 
@@ -151,13 +154,6 @@ Valor = 1
  - Conteúdo: **API** = Canal: *Hashtag Programação*.<br>
  - Conteúdo: **Django** = Canal: *Pythonando*.<br>
  - Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br>
-
- <h2> Observações; </h2>
-
- - Cada arquivo é um projeto diferente.
- - Baixar as bibliotecas na sua maquina.
- - Verificar o funcionamento dos códigos na sua maquina.
- - Os canais apresentados, possuem outros tipos de conteúdos ligados a programação.
 
  <hr>
 
