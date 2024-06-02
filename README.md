@@ -155,5 +155,5 @@ Valor = 1
  - Conteúdo: **Django** = Canal: *Pythonando*.<br>
  - Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br>
 
- <hr>
+ <hr><br>
 
