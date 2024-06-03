@@ -1,8 +1,9 @@
-<h1> Meu Histórico na programação:</h1>
+<h1> Meu Histórico na programação:</h1><br>
 
-<h4> 1 ano de estudo.</h4>
+<h4> 1 ano de estudo.</h4><br>
 
-<h4> Indicação: Fazer melhoria, uma nova versão.</h4>
+<h4> Indicação: Fazer melhoria, uma nova versão.</h4><br>
+
 
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
