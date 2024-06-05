@@ -139,9 +139,7 @@ Valor = 1
 <h2> Projetos desenvolvidos em fase de estudos em Django;</h2> <br>
 
 **Por ser  um projeto criado em um framework o Github não possui suporte atualmente para o deploy.**
-**Os projetos estão em** <a href='https://github.com/Rodolfo-desenvolve/Portfolio'>Portfólio</a>. <br>
-
-<hr>
+**Os projetos estão em** <a href='https://github.com/Rodolfo-desenvolve/Portfolio'>Portfólio</a>.<br>
 
 <h2> Canais acompanhados; </h2>
 
@@ -156,5 +154,5 @@ Valor = 1
  - Conteúdo: **Django** = Canal: *Pythonando*.<br>
  - Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br><br>
 
- <hr><br>
-
+ <br>
+ 
