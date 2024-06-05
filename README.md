@@ -1,4 +1,4 @@
-<h1> Meu Histórico na programação:</h1><br>
+<h1> Meu Histórico na programação:</h1>
 
 <h4> 1 ano de estudo.</h4>
 
