@@ -81,7 +81,7 @@ peso   = 70.9
 <h4> Arquivo: Meu_jokenpo2.py;</h4>
 
 **Função:** Jogar pedra, papel e tesoura; <br>
-**Obs:** sempre que perder,empatar ou ganhar a interface informa .<br>
+**Obs:** sempre que perder,empatar ou ganhar a interface informa.<br>
 
 **Interface:** <br>
 
