@@ -3,7 +3,6 @@
 <h4> 1 ano de estudo.</h4>
 <h4> Indicação: Fazer melhoria, uma nova versão.</h4><br>
 
-
 <h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
 
 <h4> Arquivo: Meu_Alarme.py; </h4>
@@ -151,7 +150,5 @@ Valor = 1
  - Conteuúdo: **Banco de dados** = Canal: *Otavio Miranda*.<br>
  - Conteúdo: **API** = Canal: *Hashtag Programação*.<br>
  - Conteúdo: **Django** = Canal: *Pythonando*.<br>
- - Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br><br>
-
- <br>
+ - Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br><br><br>
  
