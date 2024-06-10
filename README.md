@@ -17,7 +17,7 @@
 
 <hr>
 
-<h4> Arquivo: Meuprojetoimc.py;</h4>
+<h4> Arquivo: Meuprojetoimc.py;</h4><br>
 
 **Função:** Calcula o imc do usuario e retorna a sua situação: abaixo, normal ou acima do peso.<br>
 
