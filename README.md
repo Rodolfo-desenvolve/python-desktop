@@ -3,7 +3,7 @@
 <h4> 1 ano de estudo.</h4>
 <h4> Indicação: Fazer melhoria, uma nova versão.</h4><br>
 
-<h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2>
+<h2> Projetos desenvolvidos em fase de estudos de Programação Orientada a Objeto (POO);</h2><br>
 
 <h4> Arquivo: Meu_Alarme.py; </h4>
 
@@ -17,7 +17,7 @@
 
 <hr>
 
-<h4> Arquivo: Meuprojetoimc.py;</h4><br>
+<h4> Arquivo: Meuprojetoimc.py;</h4>
 
 **Função:** Calcula o imc do usuario e retorna a sua situação: abaixo, normal ou acima do peso.<br>
 
@@ -96,7 +96,7 @@ peso   = 70.9
 
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/45c5cf86-d638-4afc-b0a4-97de1eecbf17' height='200px'>
 
-<h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2>
+<h2> Projetos desenvolvidos em fase de estudos de Banco de dados (SQL);</h2><br>
 
 <h4> Arquivo: sqlite3_estudos.py;</h4>
 
