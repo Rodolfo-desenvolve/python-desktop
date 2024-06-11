@@ -129,7 +129,7 @@ Valor = 1
 
 <img src='https://github.com/Rodolfo-desenvolve/python-desktop/assets/147216778/25f24b6b-16cf-4580-9584-668ef0490752' height='200px'>
 
-<h2> Projetos desenvolvidos em fase de estudos em Desenvolvimento Web; </h2> <br>
+<h2> Projetos desenvolvidos em fase de estudos em Desenvolvimento Web: </h2> <br>
 
 **Os códigos do projeto está em** <a href='https://github.com/Rodolfo-desenvolve/Loja_virtual'>Loja Virtual Código</a>.
 **Ver site:** <a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual Site</a>. <br>
