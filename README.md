@@ -150,5 +150,5 @@ Valor = 1
  - Conteuúdo: **Banco de dados** = Canal: *Otavio Miranda*.<br>
  - Conteúdo: **API** = Canal: *Hashtag Programação*.<br>
  - Conteúdo: **Django** = Canal: *Pythonando*.<br>
- - Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br><br><br>
+ - Conteúdo: **Html, Css, Javascripts** = Canal: *Myacon Silveira*.<br><br>
  
